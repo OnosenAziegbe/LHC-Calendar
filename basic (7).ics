@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:lhcoshawa@gmail.com
+X-WR-TIMEZONE:America/Toronto
+BEGIN:VEVENT
+DTSTART:20240919T150000Z
+DTEND:20240919T160000Z
+DTSTAMP:20250721T212426Z
+UID:coo3eo9ic8pj2b9occoj4b9kcdi32b9o6ksjgb9k64q64db460qjgcpocg@google.com
+CREATED:20240906T175040Z
+LAST-MODIFIED:20240906T175040Z
+LOCATION:MS Teams
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Interview Confirmation with City of Vaughan for J0724-0805 Business
+  Analyst\, Corporate Services (Contract up to 24 months)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250204T050000Z
+DTEND:20250205T050000Z
+DTSTAMP:20250721T212426Z
+ORGANIZER;CN=lhcmediamin@gmail.com:mailto:lhcmediamin@gmail.com
+UID:bj21bKGREDVRGZXnXX86Yn@Cal.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lh
+ coshawa@gmail.com;X-NUM-GUESTS=0:mailto:lhcoshawa@gmail.com
+CREATED:20250127T004108Z
+DESCRIPTION:What:\nFEBRUARY CHAIN FAST between lhcmedia and Jonathan\n  \n\
+ nOrganizer timezone:\nAmerica/Toronto\n  \n\nWho:\n\nlhcmedia - Organizer\n
+ lhcmediamin@gmail.com\n  \nMichael Mbaya\nmichaelhyeladzira@gmail.com\n\n\n
+ Hanum Joseph Magaji\nhanumagaji@gmail.com\n\n\nTaliah Muboyayi\ntaliah2006m
+ ubo@gmail.com\n\n\nTaliah Muboyayi\ntaliah2006mubo@gmail.com\n\n\nTaliah Mu
+ boyayi\ntaliah2006mubo@gmail.com\n\n\nGelson Da Cunha\nlhcoshawa@gmail.com\
+ n\n\nTionne Mcinnis\ntionnemcinnis@outlook.com\n\n\nRaj Sriram\nrajsriram0@
+ gmail.com\n\n\nRainum\nrmagaji38@gmail.com\n\n\nLatrell Olumofe\nkarlate11@
+ hotmail.com\n\n\nLatrell Olumofe\nkarlate11@hotmail.com\n\n\nKingDavid Eken
+ kwo\nkdfromthepack@gmail.com\n\n\nElizabeth Sampa\nlizzysampa31@gmail.com\n
+ \n\nBrit\nbrityeh10@gmail.com\n\n\nBrit\nbrityeh10@gmail.com\n\n\nTamunoipi
+ rinye Sophia Alex-Hart\nalexhartsophia@gmail.com\n\n\nAyomide Jegede\nayoje
+ gede22@gmail.com\n\n\nAyomide Jegede\nayojegede22@gmail.com\n\n\nMayode Oba
+ dina\nmo.peacee@gmail.com\n\n\nDéJohn\ndejohn1@live.ca\n\n\nNonye Iweanoge\
+ nnonyeiweanoge@gmail.com\n\n\nMeagan Frozel\nmeganfrozel@hotmail.com\n\n\nR
+ uth Danielle Kamayou\nkamayouruthdanielle@gmail.com\n\n\nDale Bowerbank\nBo
+ werbank@gmail.com\n\n\nArianna\nannagulds@icloud.com\n\n\nArianna\nannaguld
+ s@icloud.com\n\n\nDale Bowerbank\nBowerbankdale@gmail.com\n\n\n  \nWhere:\n
+ Google\n\n\n\nPhone Number:\nundefined
+LAST-MODIFIED:20250205T234058Z
+LOCATION:Google
+SEQUENCE:16
+STATUS:CONFIRMED
+SUMMARY:FEBRUARY CHAIN FAST between lhcmedia and Jonathan
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
